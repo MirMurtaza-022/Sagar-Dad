@@ -14,7 +14,7 @@ import { photo, type Photo } from "@/lib/images";
 /* ------------------------------------------------------------------ */
 
 export const artist = {
-  name: "[Artist Name]",
+  name: "Sagar Daad Baloch",
   roles: "Photographer / Filmmaker",
   statement: "Seeing stories between frames.",
   location: "[Location]",
